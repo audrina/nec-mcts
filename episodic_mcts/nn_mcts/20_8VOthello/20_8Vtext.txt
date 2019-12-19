@@ -1,0 +1,940 @@
+------ITER 1------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.17
+Total time used for one game: 3.18
+Total time used for one game: 3.30
+Total time used for one game: 3.12
+Total time used for one game: 3.19
+Total time used for one game: 3.17
+Total time used for one game: 3.24
+Total time used for one game: 3.18
+Total time used for one game: 3.22
+Total time used for one game: 3.24
+Total time used for one game: 3.30
+Total time used for one game: 3.25
+Total time used for one game: 3.18
+Total time used for one game: 3.18
+Total time used for one game: 3.21
+Total time used for one game: 3.20
+Total time used for one game: 3.21
+Total time used for one game: 3.18
+Total time used for one game: 3.22
+Total time used for one game: 3.31
+Total time used for one game: 3.19
+Total time used for one game: 3.12
+Total time used for one game: 3.24
+Total time used for one game: 3.18
+Total time used for one game: 3.36
+Total time used for one game: 3.15
+Total time used for one game: 3.20
+Total time used for one game: 3.19
+Total time used for one game: 3.15
+Total time used for one game: 3.18
+Total time used for one game: 3.18
+Total time used for one game: 3.20
+Total time used for one game: 3.22
+Total time used for one game: 3.24
+Total time used for one game: 3.16
+Total time used for one game: 3.31
+Total time used for one game: 3.24
+Total time used for one game: 3.20
+Total time used for one game: 3.19
+Total time used for one game: 3.19
+NEW/PREV WINS : 32 / 8 ; DRAWS : 0
+ACCEPTING NEW MODEL
+Total: 740.177
+------ITER 2------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.11
+Total time used for one game: 3.13
+Total time used for one game: 3.14
+Total time used for one game: 3.20
+Total time used for one game: 3.11
+Total time used for one game: 3.11
+Total time used for one game: 3.16
+Total time used for one game: 3.15
+Total time used for one game: 3.13
+Total time used for one game: 3.11
+Total time used for one game: 3.12
+Total time used for one game: 3.32
+Total time used for one game: 3.19
+Total time used for one game: 3.20
+Total time used for one game: 3.07
+Total time used for one game: 3.16
+Total time used for one game: 3.22
+Total time used for one game: 3.10
+Total time used for one game: 3.14
+Total time used for one game: 3.17
+Total time used for one game: 3.13
+Total time used for one game: 3.14
+Total time used for one game: 3.15
+Total time used for one game: 3.14
+Total time used for one game: 3.18
+Total time used for one game: 3.12
+Total time used for one game: 3.38
+Total time used for one game: 3.18
+Total time used for one game: 3.17
+Total time used for one game: 3.11
+Total time used for one game: 3.20
+Total time used for one game: 3.21
+Total time used for one game: 3.19
+Total time used for one game: 3.26
+Total time used for one game: 3.10
+Total time used for one game: 3.18
+Total time used for one game: 3.25
+Total time used for one game: 3.19
+Total time used for one game: 3.30
+Total time used for one game: 3.27
+NEW/PREV WINS : 24 / 16 ; DRAWS : 0
+ACCEPTING NEW MODEL
+Total: 969.616
+------ITER 3------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.34
+Total time used for one game: 3.16
+Total time used for one game: 3.12
+Total time used for one game: 3.12
+Total time used for one game: 3.26
+Total time used for one game: 3.09
+Total time used for one game: 3.15
+Total time used for one game: 3.16
+Total time used for one game: 3.16
+Total time used for one game: 3.12
+Total time used for one game: 3.08
+Total time used for one game: 2.93
+Total time used for one game: 3.10
+Total time used for one game: 3.18
+Total time used for one game: 3.25
+Total time used for one game: 3.33
+Total time used for one game: 3.14
+Total time used for one game: 3.14
+Total time used for one game: 3.15
+Total time used for one game: 3.18
+Total time used for one game: 3.22
+Total time used for one game: 3.11
+Total time used for one game: 3.15
+Total time used for one game: 3.16
+Total time used for one game: 3.15
+Total time used for one game: 3.21
+Total time used for one game: 3.13
+Total time used for one game: 3.17
+Total time used for one game: 3.16
+Total time used for one game: 3.16
+Total time used for one game: 3.09
+Total time used for one game: 3.14
+Total time used for one game: 3.15
+Total time used for one game: 3.12
+Total time used for one game: 3.20
+Total time used for one game: 3.22
+Total time used for one game: 3.19
+Total time used for one game: 3.20
+Total time used for one game: 3.16
+Total time used for one game: 3.31
+NEW/PREV WINS : 24 / 16 ; DRAWS : 0
+ACCEPTING NEW MODEL
+Total: 1242.526
+------ITER 4------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.27
+Total time used for one game: 3.21
+Total time used for one game: 3.17
+Total time used for one game: 3.17
+Total time used for one game: 3.13
+Total time used for one game: 3.17
+Total time used for one game: 3.18
+Total time used for one game: 3.15
+Total time used for one game: 3.16
+Total time used for one game: 3.18
+Total time used for one game: 3.13
+Total time used for one game: 3.19
+Total time used for one game: 3.17
+Total time used for one game: 3.12
+Total time used for one game: 3.14
+Total time used for one game: 3.13
+Total time used for one game: 3.13
+Total time used for one game: 3.09
+Total time used for one game: 3.16
+Total time used for one game: 3.19
+Total time used for one game: 3.16
+Total time used for one game: 3.15
+Total time used for one game: 3.33
+Total time used for one game: 3.14
+Total time used for one game: 3.36
+Total time used for one game: 3.17
+Total time used for one game: 3.27
+Total time used for one game: 3.17
+Total time used for one game: 3.20
+Total time used for one game: 3.19
+Total time used for one game: 3.15
+Total time used for one game: 3.17
+Total time used for one game: 3.24
+Total time used for one game: 3.13
+Total time used for one game: 3.20
+Total time used for one game: 3.18
+Total time used for one game: 3.16
+Total time used for one game: 3.21
+Total time used for one game: 3.18
+Total time used for one game: 3.12
+NEW/PREV WINS : 16 / 24 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 1491.058
+------ITER 5------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.16
+Total time used for one game: 3.20
+Total time used for one game: 3.21
+Total time used for one game: 3.18
+Total time used for one game: 3.16
+Total time used for one game: 3.18
+Total time used for one game: 3.23
+Total time used for one game: 3.11
+Total time used for one game: 3.24
+Total time used for one game: 3.11
+Total time used for one game: 3.16
+Total time used for one game: 3.21
+Total time used for one game: 3.17
+Total time used for one game: 3.26
+Total time used for one game: 3.24
+Total time used for one game: 3.31
+Total time used for one game: 3.19
+Total time used for one game: 3.13
+Total time used for one game: 3.14
+Total time used for one game: 3.11
+Total time used for one game: 3.20
+Total time used for one game: 3.16
+Total time used for one game: 3.13
+Total time used for one game: 3.12
+Total time used for one game: 3.14
+Total time used for one game: 3.17
+Total time used for one game: 3.18
+Total time used for one game: 3.16
+Total time used for one game: 3.19
+Total time used for one game: 3.18
+Total time used for one game: 3.22
+Total time used for one game: 3.14
+Total time used for one game: 3.13
+Total time used for one game: 3.15
+Total time used for one game: 3.23
+Total time used for one game: 3.15
+Total time used for one game: 3.18
+Total time used for one game: 3.13
+Total time used for one game: 3.19
+Total time used for one game: 3.18
+NEW/PREV WINS : 21 / 19 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 1759.728
+------ITER 6------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.22
+Total time used for one game: 3.20
+Total time used for one game: 3.21
+Total time used for one game: 3.23
+Total time used for one game: 3.10
+Total time used for one game: 3.10
+Total time used for one game: 3.17
+Total time used for one game: 3.16
+Total time used for one game: 3.17
+Total time used for one game: 3.18
+Total time used for one game: 3.19
+Total time used for one game: 3.24
+Total time used for one game: 3.21
+Total time used for one game: 3.20
+Total time used for one game: 3.42
+Total time used for one game: 3.18
+Total time used for one game: 3.16
+Total time used for one game: 3.30
+Total time used for one game: 3.15
+Total time used for one game: 3.19
+Total time used for one game: 3.16
+Total time used for one game: 3.17
+Total time used for one game: 3.22
+Total time used for one game: 3.19
+Total time used for one game: 3.41
+Total time used for one game: 3.16
+Total time used for one game: 3.18
+Total time used for one game: 3.19
+Total time used for one game: 3.12
+Total time used for one game: 3.17
+Total time used for one game: 3.16
+Total time used for one game: 3.24
+Total time used for one game: 3.25
+Total time used for one game: 3.18
+Total time used for one game: 3.21
+Total time used for one game: 3.20
+Total time used for one game: 3.20
+Total time used for one game: 3.23
+Total time used for one game: 3.15
+Total time used for one game: 3.35
+NEW/PREV WINS : 25 / 15 ; DRAWS : 0
+ACCEPTING NEW MODEL
+Total: 2039.047
+------ITER 7------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.11
+Total time used for one game: 3.25
+Total time used for one game: 3.15
+Total time used for one game: 3.20
+Total time used for one game: 3.17
+Total time used for one game: 3.14
+Total time used for one game: 3.13
+Total time used for one game: 3.11
+Total time used for one game: 3.12
+Total time used for one game: 3.16
+Total time used for one game: 3.13
+Total time used for one game: 3.21
+Total time used for one game: 3.21
+Total time used for one game: 3.23
+Total time used for one game: 3.17
+Total time used for one game: 3.19
+Total time used for one game: 3.24
+Total time used for one game: 3.14
+Total time used for one game: 3.24
+Total time used for one game: 3.12
+Total time used for one game: 3.16
+Total time used for one game: 3.11
+Total time used for one game: 3.11
+Total time used for one game: 3.12
+Total time used for one game: 3.19
+Total time used for one game: 3.15
+Total time used for one game: 3.16
+Total time used for one game: 3.18
+Total time used for one game: 3.16
+Total time used for one game: 3.15
+Total time used for one game: 3.13
+Total time used for one game: 3.16
+Total time used for one game: 3.11
+Total time used for one game: 3.13
+Total time used for one game: 3.13
+Total time used for one game: 3.16
+Total time used for one game: 3.26
+Total time used for one game: 3.12
+Total time used for one game: 3.16
+Total time used for one game: 3.17
+NEW/PREV WINS : 20 / 20 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 2303.061
+------ITER 8------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.18
+Total time used for one game: 3.14
+Total time used for one game: 3.28
+Total time used for one game: 3.28
+Total time used for one game: 3.18
+Total time used for one game: 3.20
+Total time used for one game: 3.17
+Total time used for one game: 3.19
+Total time used for one game: 3.14
+Total time used for one game: 3.19
+Total time used for one game: 3.14
+Total time used for one game: 3.35
+Total time used for one game: 3.15
+Total time used for one game: 3.20
+Total time used for one game: 3.17
+Total time used for one game: 3.13
+Total time used for one game: 3.14
+Total time used for one game: 3.17
+Total time used for one game: 3.24
+Total time used for one game: 3.12
+Total time used for one game: 3.09
+Total time used for one game: 3.14
+Total time used for one game: 3.14
+Total time used for one game: 3.07
+Total time used for one game: 3.20
+Total time used for one game: 3.25
+Total time used for one game: 3.11
+Total time used for one game: 3.22
+Total time used for one game: 3.12
+Total time used for one game: 3.22
+Total time used for one game: 3.23
+Total time used for one game: 3.18
+Total time used for one game: 3.26
+Total time used for one game: 3.15
+Total time used for one game: 3.36
+Total time used for one game: 3.16
+Total time used for one game: 3.23
+Total time used for one game: 3.36
+Total time used for one game: 3.18
+Total time used for one game: 3.21
+NEW/PREV WINS : 19 / 21 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 2567.766
+------ITER 9------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.27
+Total time used for one game: 3.18
+Total time used for one game: 3.25
+Total time used for one game: 3.12
+Total time used for one game: 3.22
+Total time used for one game: 3.12
+Total time used for one game: 3.18
+Total time used for one game: 3.21
+Total time used for one game: 3.11
+Total time used for one game: 3.20
+Total time used for one game: 3.18
+Total time used for one game: 3.14
+Total time used for one game: 3.33
+Total time used for one game: 3.09
+Total time used for one game: 3.16
+Total time used for one game: 3.09
+Total time used for one game: 3.28
+Total time used for one game: 3.16
+Total time used for one game: 3.17
+Total time used for one game: 3.15
+Total time used for one game: 3.16
+Total time used for one game: 3.13
+Total time used for one game: 3.07
+Total time used for one game: 3.17
+Total time used for one game: 3.20
+Total time used for one game: 3.20
+Total time used for one game: 3.20
+Total time used for one game: 3.34
+Total time used for one game: 3.14
+Total time used for one game: 3.16
+Total time used for one game: 3.13
+Total time used for one game: 3.15
+Total time used for one game: 3.10
+Total time used for one game: 3.17
+Total time used for one game: 3.11
+Total time used for one game: 3.07
+Total time used for one game: 3.16
+Total time used for one game: 3.13
+Total time used for one game: 3.26
+Total time used for one game: 3.20
+NEW/PREV WINS : 21 / 19 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 2820.009
+------ITER 10------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.10
+Total time used for one game: 3.17
+Total time used for one game: 3.18
+Total time used for one game: 3.12
+Total time used for one game: 3.14
+Total time used for one game: 3.28
+Total time used for one game: 3.19
+Total time used for one game: 3.29
+Total time used for one game: 3.11
+Total time used for one game: 3.19
+Total time used for one game: 3.11
+Total time used for one game: 3.17
+Total time used for one game: 3.16
+Total time used for one game: 3.15
+Total time used for one game: 3.14
+Total time used for one game: 3.29
+Total time used for one game: 3.15
+Total time used for one game: 3.20
+Total time used for one game: 3.17
+Total time used for one game: 3.13
+Total time used for one game: 3.22
+Total time used for one game: 3.10
+Total time used for one game: 3.16
+Total time used for one game: 3.16
+Total time used for one game: 3.29
+Total time used for one game: 3.16
+Total time used for one game: 3.18
+Total time used for one game: 3.13
+Total time used for one game: 3.16
+Total time used for one game: 3.19
+Total time used for one game: 3.18
+Total time used for one game: 3.18
+Total time used for one game: 3.19
+Total time used for one game: 3.17
+Total time used for one game: 3.17
+Total time used for one game: 3.20
+Total time used for one game: 3.24
+Total time used for one game: 3.30
+Total time used for one game: 3.19
+Total time used for one game: 3.20
+NEW/PREV WINS : 25 / 15 ; DRAWS : 0
+ACCEPTING NEW MODEL
+Total: 3100.724
+------ITER 11------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.19
+Total time used for one game: 3.38
+Total time used for one game: 3.18
+Total time used for one game: 3.12
+Total time used for one game: 3.20
+Total time used for one game: 3.15
+Total time used for one game: 3.13
+Total time used for one game: 3.17
+Total time used for one game: 3.14
+Total time used for one game: 3.16
+Total time used for one game: 3.13
+Total time used for one game: 3.16
+Total time used for one game: 3.16
+Total time used for one game: 3.16
+Total time used for one game: 3.18
+Total time used for one game: 3.11
+Total time used for one game: 3.31
+Total time used for one game: 3.13
+Total time used for one game: 3.16
+Total time used for one game: 3.16
+Total time used for one game: 3.06
+Total time used for one game: 3.09
+Total time used for one game: 3.11
+Total time used for one game: 3.17
+Total time used for one game: 3.09
+Total time used for one game: 3.12
+Total time used for one game: 3.11
+Total time used for one game: 3.20
+Total time used for one game: 3.12
+Total time used for one game: 3.15
+Total time used for one game: 3.31
+Total time used for one game: 3.06
+Total time used for one game: 3.17
+Total time used for one game: 3.19
+Total time used for one game: 3.11
+Total time used for one game: 3.16
+Total time used for one game: 3.16
+Total time used for one game: 3.20
+Total time used for one game: 3.27
+Total time used for one game: 3.17
+NEW/PREV WINS : 20 / 20 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 3350.907
+------ITER 12------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.21
+Total time used for one game: 3.15
+Total time used for one game: 3.17
+Total time used for one game: 3.18
+Total time used for one game: 3.24
+Total time used for one game: 3.27
+Total time used for one game: 3.32
+Total time used for one game: 3.19
+Total time used for one game: 3.15
+Total time used for one game: 3.14
+Total time used for one game: 3.17
+Total time used for one game: 3.19
+Total time used for one game: 3.11
+Total time used for one game: 3.19
+Total time used for one game: 3.20
+Total time used for one game: 3.14
+Total time used for one game: 3.26
+Total time used for one game: 3.20
+Total time used for one game: 3.29
+Total time used for one game: 3.18
+Total time used for one game: 3.14
+Total time used for one game: 3.12
+Total time used for one game: 3.16
+Total time used for one game: 3.18
+Total time used for one game: 3.16
+Total time used for one game: 3.21
+Total time used for one game: 3.31
+Total time used for one game: 3.10
+Total time used for one game: 3.17
+Total time used for one game: 3.20
+Total time used for one game: 3.14
+Total time used for one game: 3.10
+Total time used for one game: 3.11
+Total time used for one game: 3.15
+Total time used for one game: 3.16
+Total time used for one game: 3.16
+Total time used for one game: 3.29
+Total time used for one game: 3.18
+Total time used for one game: 3.28
+Total time used for one game: 3.23
+NEW/PREV WINS : 24 / 16 ; DRAWS : 0
+ACCEPTING NEW MODEL
+Total: 3615.429
+------ITER 13------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.24
+Total time used for one game: 3.17
+Total time used for one game: 3.16
+Total time used for one game: 3.15
+Total time used for one game: 3.18
+Total time used for one game: 3.16
+Total time used for one game: 3.19
+Total time used for one game: 3.22
+Total time used for one game: 3.19
+Total time used for one game: 3.10
+Total time used for one game: 3.23
+Total time used for one game: 3.11
+Total time used for one game: 3.13
+Total time used for one game: 3.21
+Total time used for one game: 3.15
+Total time used for one game: 3.14
+Total time used for one game: 3.11
+Total time used for one game: 3.14
+Total time used for one game: 3.24
+Total time used for one game: 3.20
+Total time used for one game: 3.13
+Total time used for one game: 3.15
+Total time used for one game: 3.13
+Total time used for one game: 3.19
+Total time used for one game: 3.14
+Total time used for one game: 3.43
+Total time used for one game: 3.25
+Total time used for one game: 3.18
+Total time used for one game: 3.13
+Total time used for one game: 3.17
+Total time used for one game: 3.14
+Total time used for one game: 3.18
+Total time used for one game: 3.32
+Total time used for one game: 3.16
+Total time used for one game: 3.13
+Total time used for one game: 3.20
+Total time used for one game: 3.21
+Total time used for one game: 3.14
+Total time used for one game: 3.14
+Total time used for one game: 3.09
+NEW/PREV WINS : 17 / 23 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 3876.996
+------ITER 14------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.15
+Total time used for one game: 3.20
+Total time used for one game: 3.17
+Total time used for one game: 3.36
+Total time used for one game: 3.18
+Total time used for one game: 3.15
+Total time used for one game: 3.12
+Total time used for one game: 3.18
+Total time used for one game: 3.10
+Total time used for one game: 3.16
+Total time used for one game: 3.13
+Total time used for one game: 3.13
+Total time used for one game: 3.14
+Total time used for one game: 3.20
+Total time used for one game: 3.14
+Total time used for one game: 3.18
+Total time used for one game: 3.11
+Total time used for one game: 3.15
+Total time used for one game: 3.14
+Total time used for one game: 3.13
+Total time used for one game: 3.11
+Total time used for one game: 3.11
+Total time used for one game: 3.13
+Total time used for one game: 3.11
+Total time used for one game: 3.34
+Total time used for one game: 3.11
+Total time used for one game: 3.15
+Total time used for one game: 3.13
+Total time used for one game: 3.12
+Total time used for one game: 3.10
+Total time used for one game: 3.09
+Total time used for one game: 3.25
+Total time used for one game: 3.16
+Total time used for one game: 3.11
+Total time used for one game: 3.14
+Total time used for one game: 3.15
+Total time used for one game: 3.17
+Total time used for one game: 3.17
+Total time used for one game: 3.19
+Total time used for one game: 3.14
+NEW/PREV WINS : 17 / 23 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 4124.226
+------ITER 15------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.30
+Total time used for one game: 3.18
+Total time used for one game: 3.11
+Total time used for one game: 3.19
+Total time used for one game: 3.18
+Total time used for one game: 3.22
+Total time used for one game: 3.17
+Total time used for one game: 3.13
+Total time used for one game: 3.11
+Total time used for one game: 3.18
+Total time used for one game: 3.16
+Total time used for one game: 3.15
+Total time used for one game: 3.18
+Total time used for one game: 3.14
+Total time used for one game: 3.19
+Total time used for one game: 3.17
+Total time used for one game: 3.09
+Total time used for one game: 3.36
+Total time used for one game: 3.16
+Total time used for one game: 3.29
+Total time used for one game: 3.14
+Total time used for one game: 3.13
+Total time used for one game: 3.08
+Total time used for one game: 3.22
+Total time used for one game: 3.17
+Total time used for one game: 3.19
+Total time used for one game: 3.15
+Total time used for one game: 3.09
+Total time used for one game: 3.12
+Total time used for one game: 3.17
+Total time used for one game: 3.16
+Total time used for one game: 3.10
+Total time used for one game: 3.25
+Total time used for one game: 3.24
+Total time used for one game: 3.15
+Total time used for one game: 3.11
+Total time used for one game: 3.37
+Total time used for one game: 3.06
+Total time used for one game: 3.14
+Total time used for one game: 3.14
+NEW/PREV WINS : 21 / 19 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 4412.830
+------ITER 16------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.16
+Total time used for one game: 3.22
+Total time used for one game: 3.15
+Total time used for one game: 3.17
+Total time used for one game: 3.21
+Total time used for one game: 3.29
+Total time used for one game: 3.11
+Total time used for one game: 3.11
+Total time used for one game: 3.16
+Total time used for one game: 3.16
+Total time used for one game: 3.20
+Total time used for one game: 3.07
+Total time used for one game: 3.19
+Total time used for one game: 3.14
+Total time used for one game: 3.13
+Total time used for one game: 3.14
+Total time used for one game: 3.15
+Total time used for one game: 3.15
+Total time used for one game: 3.12
+Total time used for one game: 3.26
+Total time used for one game: 3.23
+Total time used for one game: 3.15
+Total time used for one game: 3.23
+Total time used for one game: 3.18
+Total time used for one game: 3.17
+Total time used for one game: 3.11
+Total time used for one game: 3.18
+Total time used for one game: 3.17
+Total time used for one game: 3.10
+Total time used for one game: 3.19
+Total time used for one game: 3.14
+Total time used for one game: 3.15
+Total time used for one game: 3.18
+Total time used for one game: 3.17
+Total time used for one game: 3.14
+Total time used for one game: 3.16
+Total time used for one game: 3.18
+Total time used for one game: 3.21
+Total time used for one game: 3.14
+Total time used for one game: 3.17
+NEW/PREV WINS : 20 / 20 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 4677.697
+------ITER 17------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.22
+Total time used for one game: 3.15
+Total time used for one game: 3.20
+Total time used for one game: 3.13
+Total time used for one game: 3.14
+Total time used for one game: 3.11
+Total time used for one game: 3.16
+Total time used for one game: 3.25
+Total time used for one game: 3.15
+Total time used for one game: 3.33
+Total time used for one game: 3.13
+Total time used for one game: 3.29
+Total time used for one game: 3.21
+Total time used for one game: 3.24
+Total time used for one game: 3.17
+Total time used for one game: 3.17
+Total time used for one game: 3.19
+Total time used for one game: 3.21
+Total time used for one game: 3.16
+Total time used for one game: 3.16
+Total time used for one game: 3.12
+Total time used for one game: 3.17
+Total time used for one game: 3.21
+Total time used for one game: 3.37
+Total time used for one game: 3.12
+Total time used for one game: 3.17
+Total time used for one game: 3.22
+Total time used for one game: 3.15
+Total time used for one game: 3.12
+Total time used for one game: 3.17
+Total time used for one game: 3.20
+Total time used for one game: 3.12
+Total time used for one game: 3.08
+Total time used for one game: 3.18
+Total time used for one game: 3.10
+Total time used for one game: 3.17
+Total time used for one game: 3.18
+Total time used for one game: 3.12
+Total time used for one game: 3.18
+Total time used for one game: 3.13
+NEW/PREV WINS : 25 / 15 ; DRAWS : 0
+ACCEPTING NEW MODEL
+Total: 4933.270
+------ITER 18------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.23
+Total time used for one game: 3.15
+Total time used for one game: 3.19
+Total time used for one game: 3.17
+Total time used for one game: 3.15
+Total time used for one game: 3.12
+Total time used for one game: 3.13
+Total time used for one game: 3.19
+Total time used for one game: 3.15
+Total time used for one game: 3.13
+Total time used for one game: 3.14
+Total time used for one game: 3.10
+Total time used for one game: 3.12
+Total time used for one game: 3.09
+Total time used for one game: 3.14
+Total time used for one game: 3.13
+Total time used for one game: 3.12
+Total time used for one game: 3.16
+Total time used for one game: 3.18
+Total time used for one game: 3.19
+Total time used for one game: 3.11
+Total time used for one game: 3.26
+Total time used for one game: 3.17
+Total time used for one game: 3.27
+Total time used for one game: 3.29
+Total time used for one game: 3.18
+Total time used for one game: 3.19
+Total time used for one game: 3.20
+Total time used for one game: 3.13
+Total time used for one game: 3.33
+Total time used for one game: 3.18
+Total time used for one game: 3.21
+Total time used for one game: 3.16
+Total time used for one game: 3.21
+Total time used for one game: 3.13
+Total time used for one game: 3.26
+Total time used for one game: 3.15
+Total time used for one game: 3.14
+Total time used for one game: 3.15
+Total time used for one game: 3.29
+NEW/PREV WINS : 21 / 19 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 5192.937
+------ITER 19------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.30
+Total time used for one game: 3.27
+Total time used for one game: 3.21
+Total time used for one game: 3.16
+Total time used for one game: 3.20
+Total time used for one game: 3.17
+Total time used for one game: 3.16
+Total time used for one game: 3.19
+Total time used for one game: 3.09
+Total time used for one game: 3.12
+Total time used for one game: 3.13
+Total time used for one game: 3.19
+Total time used for one game: 3.21
+Total time used for one game: 3.20
+Total time used for one game: 3.17
+Total time used for one game: 3.12
+Total time used for one game: 3.20
+Total time used for one game: 3.28
+Total time used for one game: 3.13
+Total time used for one game: 3.21
+Total time used for one game: 3.14
+Total time used for one game: 3.14
+Total time used for one game: 3.09
+Total time used for one game: 3.08
+Total time used for one game: 3.11
+Total time used for one game: 3.17
+Total time used for one game: 3.07
+Total time used for one game: 3.17
+Total time used for one game: 3.12
+Total time used for one game: 3.16
+Total time used for one game: 3.15
+Total time used for one game: 3.16
+Total time used for one game: 3.14
+Total time used for one game: 3.15
+Total time used for one game: 3.21
+Total time used for one game: 3.18
+Total time used for one game: 3.15
+Total time used for one game: 3.11
+Total time used for one game: 3.15
+Total time used for one game: 3.15
+NEW/PREV WINS : 19 / 21 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 5494.143
+------ITER 20------
+Self play
+Train
+PITTING AGAINST PREVIOUS VERSION
+Total time used for one game: 3.19
+Total time used for one game: 3.11
+Total time used for one game: 3.14
+Total time used for one game: 3.20
+Total time used for one game: 3.20
+Total time used for one game: 3.28
+Total time used for one game: 3.15
+Total time used for one game: 3.37
+Total time used for one game: 3.21
+Total time used for one game: 3.35
+Total time used for one game: 3.16
+Total time used for one game: 3.15
+Total time used for one game: 3.28
+Total time used for one game: 3.14
+Total time used for one game: 3.10
+Total time used for one game: 3.12
+Total time used for one game: 3.14
+Total time used for one game: 3.09
+Total time used for one game: 3.16
+Total time used for one game: 3.29
+Total time used for one game: 3.17
+Total time used for one game: 3.17
+Total time used for one game: 3.07
+Total time used for one game: 3.15
+Total time used for one game: 3.12
+Total time used for one game: 3.13
+Total time used for one game: 3.13
+Total time used for one game: 3.15
+Total time used for one game: 3.13
+Total time used for one game: 3.13
+Total time used for one game: 3.12
+Total time used for one game: 3.09
+Total time used for one game: 3.07
+Total time used for one game: 3.16
+Total time used for one game: 3.18
+Total time used for one game: 3.14
+Total time used for one game: 3.17
+Total time used for one game: 3.12
+Total time used for one game: 3.23
+Total time used for one game: 3.21
+NEW/PREV WINS : 20 / 20 ; DRAWS : 0
+REJECTING NEW MODEL
+Total: 5714.758
